@@ -1,4 +1,4 @@
-## Solar App
+### Solar Dashboard
 **Purpose**: Create a web application displaying solar plant data according to the user access rights.
 
 ## Database details
@@ -29,5 +29,6 @@ The app upload data from sqlite_demo_wpo.db according to the selected site and v
 
 * Selection menu: site, variable and timeframe selection
 ![logo](images/selection_menu.png)
-* Graph1 (line plot): displayed graphs
+
+* Displayed graphs: line plot and box plot
 ![logo](images/graphs.png)
