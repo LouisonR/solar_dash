@@ -28,7 +28,9 @@ Note: add the following URL extension "/client_id" to have access to the client 
 The app upload data from sqlite_demo_wpo.db according to the selected site and variable.
 
 * Selection menu: site, variable and timeframe selection
+
 ![logo](images/selection_menu.png)
 
 * Displayed graphs: line plot and box plot
+
 ![logo](images/graphs.png)

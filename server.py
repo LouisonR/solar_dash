@@ -103,7 +103,7 @@ def update_graph(n_clicks, site_id, var_id, starting_date, ending_date):
         box_title = line_title
     else:
         box_title = "Graph2: distribution of " + var_name + " per equipment (on " + site_name + ")"
-        line_title = "Graph1: " + var_name + " for the equipment of " + site_name
+        line_title = "Graph1: " + var_name + " for the equipments of " + site_name
     return line_figure, box_figure, line_title, box_title
 
 
